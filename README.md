@@ -31,7 +31,8 @@ Perhaps:
     that embraces those paradigms?
 3.  You're taking a [Functional Design and Programming course](http://www.eli.sdsu.edu/courses/fall15/cs696/index.html) at San Diego State University
     and you have a re-frame/reagent assignment due.  You've left the reading a bit late, right? I remember those days.
-4.  re-frame is impressively buzzword compliant: it has reactivity,
+4.  You've taken interest in cycle.js, reactive streams/rxjs, elm, or pux (purescript) but want to use clojurescript.
+5.  re-frame is impressively buzzword compliant: it has reactivity,
     unidirectional data flow, pristinely pure functions,
     interceptors, coeffects, conveyor belts, statechart-friendliness (FSM)
     and claims an immaculate hammock conception. It also has a charming
